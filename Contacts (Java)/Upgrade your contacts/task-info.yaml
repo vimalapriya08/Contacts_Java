@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: src/contacts/Main.java
+    visible: true
+    learner_created: false
+  - name: src/contacts/Contact.java
+    visible: true
+    learner_created: false
+  - name: src/contacts/PhoneBook.java
+    visible: true
+    learner_created: false
+  - name: test/ContactsTest.java
+    visible: false
+    learner_created: false
+  - name: src/contacts/Organization.java
+    visible: true
+    learner_created: true
+  - name: src/contacts/Person.java
+    visible: true
+    learner_created: true
+  - name: src/contacts/Record.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/43/stages/230/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 22 Oct 2024 06:14:26 UTC"
+record: 3
